@@ -1,7 +1,7 @@
 #' max kiwi harvest
 #'
 #' @param K farm capacity
-#' @param r intrinsic growth rate
+#' @param r intrinsic growth rate of fruit
 #'
 #' @return
 #' @export
