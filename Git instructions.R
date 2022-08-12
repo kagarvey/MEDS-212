@@ -8,6 +8,7 @@ usethis::git_default_branch_rename()
 git_add -A 
 git commit -m "insert message here"
 git push
+git status
 
 
 
@@ -17,3 +18,5 @@ setting --> collaborators --> add people
 ## git ignore
 *.html doesnt get pushed to repo bc file size 
 
+
+## pipe operator command shift m
